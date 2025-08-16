@@ -7,6 +7,8 @@ Hence, I took a dataset of Cricket, which is popular sport in my home country an
  It’s a decent size dataset which talks about ICC Cricket World Cup 2024 year. It contains match level statistics until the final match. 
 Using this Dataset, I have asked ChatGpt some questions in natural language. 
 
+ Dataset LINK : https://www.kaggle.com/datasets/muhammadroshaanriaz/icc-mens-t20-worldcup
+
 #### Models Tested: 
 1.	ChatGpt – O3 :- Very Advanced reasoning feature + Internet search 
 2.	ChatGpt – 4O :- General purpose tasks
